@@ -1,0 +1,4 @@
+This folder contains the code that can replicate our analyses of treating the spot based Visium data as a scRNA-seq analysis. This includes:
+ - Finding markers of the crypts and villi during steady state conditions.
+ - Characterising the distinct transcriptomes of the granulomas.
+ - Integrating and comparing the transcriptomes of the naive vs helminth infected mouse intestine.
