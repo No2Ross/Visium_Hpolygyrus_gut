@@ -1,0 +1,1 @@
+This folder contains the code requires to replicate the portion of our analysis using cell2location. This includes the processing and integration of the scRNA-seq reference datasets from Xu et al., 2019 and Habert et al., 2017.
